@@ -1,1 +1,1 @@
-This folder contains all my code for the free code camp Data Analysis project 
+This folder contains all my code for all my data analysis projects
